@@ -1,3 +1,3 @@
-import fastfiy from 'fastify';
+import fastfiy from 'fastify'
 
-export const app = fastfiy();
+export const app = fastfiy()
